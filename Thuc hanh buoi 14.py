@@ -42,10 +42,10 @@
 #print("Hoc sinh diem cao nhat:", max(students))
 
 # Bai tap 8
-t = (1, 2, 2, 3, 2, 4, 5)
-def solan(t,i)
-for i in t:
-    print(f"So lan so {i} xuat hien: ", t.count(i))
-count=t.count(i)
-if count>1:
-    print(t.index(2))
+#t = (1, 2, 2, 3, 2, 4, 5)
+#def solan(t,i)
+#for i in t:
+#    print(f"So lan so {i} xuat hien: ", t.count(i))
+#count=t.count(i)
+#if count>1:
+#    print(t.index(2))

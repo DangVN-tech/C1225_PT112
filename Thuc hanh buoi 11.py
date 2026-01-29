@@ -1,9 +1,9 @@
-# Bai tap 1
+# Bai tap 1 (Done)
 #def pow(a):
 #    return a**2
 #print(pow(int(input("Nhap mot so nguyen: "))))
 
-# Bai tap 2
+# Bai tap 2 (Done)
 #def dientich(r):
 #    return 3.14*r**2
 #def chuvi(r):
@@ -12,7 +12,7 @@
 #print("Dien tich: ", dientich(r))
 #print("Chu vi: ", chuvi(r))
 
-# Bai tap 3
+# Bai tap 3 (Done)
 #def giaithua(a):
 #    tich=1
 #    for i in range(1,a+1):
@@ -21,7 +21,7 @@
 #a=int(input("Nhap mot so nguyen: "))
 #print(giaithua(a))
 
-# Bai tap 5
+# Bai tap 5 (Done)
 #def so_nho_nhat(a,b,c):
 #    if a<b and a<c:
 #        return a
@@ -35,14 +35,14 @@
 #nho_nhat=so_nho_nhat(a,b,c)
 #print(f"So nho nhat la: {nho_nhat}")
 
-# Bai tap 7
-def Tong(a):
-    M=0
-    for i in range(0,a+1):
-        if i%2==0:
-            M=M+i
-        else:
-            continue
-    return M
-a=int(input("Nhap mot so nguyen: "))
-print("Tong tat ca cac so chan:", Tong(a))
+# Bai tap 7 (Done)
+#def Tong(a):
+#    M=0
+#    for i in range(0,a+1):
+#        if i%2==0:
+#            M=M+i
+#        else:
+#            continue
+#    return M
+#a=int(input("Nhap mot so nguyen: "))
+#print("Tong tat ca cac so chan:", Tong(a))

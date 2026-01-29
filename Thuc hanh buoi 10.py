@@ -42,18 +42,18 @@
 #    print("Hai so khong than thiet nhau")
 
 # Bai tap 5
-import random
-R = random.randint(100,999)
-R1= R//100
-R2= R//10-R1*10
-R3= R-R1*100-R2*10
-for x in range(1,10):
-    if x==R1:
-        print (f"Mat khau so dau: {x}")
-    for y in range (1,10):
-        if y==R2:
-            print (f"Mat khau so giua: {y}")
-        for z in range (1,10):
-            if z==R3:
-                print (f"Mat khau so cuoi: {z}")
-print(f"Password found: {x,y,z}")
+#import random
+#R = random.randint(100,999)
+#R1= R//100
+#R2= R//10-R1*10
+#R3= R-R1*100-R2*10
+#for x in range(1,10):
+#    if x==R1:
+#        print (f"Mat khau so dau: {x}")
+#    for y in range (1,10):
+#        if y==R2:
+#            print (f"Mat khau so giua: {y}")
+#        for z in range (1,10):
+#            if z==R3:
+#                print (f"Mat khau so cuoi: {z}")
+#print(f"Password found: {x,y,z}")

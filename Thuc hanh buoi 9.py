@@ -41,10 +41,10 @@
 #    print()
 
 # Bai tap 2
-for i in range (1,7):
-    count=1
-    if count==i:
-        print("*", end= " ")
-    count+=1
-    print()
+#for i in range (1,7):
+#    count=1
+#    if count==i:
+#        print("*", end= " ")
+#    count+=1
+#    print()
     
